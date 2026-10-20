@@ -20,7 +20,7 @@ Zorlya is built by people for people looking for work, and many of them are doin
 
 ## Reporting
 
-Write to [support@zorlya.com](mailto:support@zorlya.com) with the subject "Conduct". Include the place, the date and what happened. We read every report, reply within two working days, and keep the reporter's name private unless they agree to share it.
+Write to [conduct@zorlya.com](mailto:conduct@zorlya.com). Include the place, the date and what happened. We read every report, reply within two working days, and keep the reporter's name private unless they agree to share it.
 
 ## What happens next
 
