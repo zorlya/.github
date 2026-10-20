@@ -41,7 +41,7 @@ The Zorlya code lives in private repositories. This profile and the default comm
 
 ## Security
 
-Found a problem? Write to [security@zorlya.com](mailto:security@zorlya.com). The policy is in [SECURITY.md](https://github.com/zorlya/.github/blob/trunk/SECURITY.md).
+Found a problem? Write to [security@zorlya.com](mailto:security@zorlya.com). The policy is in [SECURITY.md](https://github.com/zorlya/.github/blob/trunk/SECURITY.md). How we work is in [CONTRIBUTING.md](https://github.com/zorlya/.github/blob/trunk/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/zorlya/.github/blob/trunk/CODE_OF_CONDUCT.md).
 
 ## Follow and contact
 
